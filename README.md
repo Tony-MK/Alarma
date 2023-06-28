@@ -1,2 +1,2 @@
 # Alarma
-Creative counting down website template
+Creative landing counting down website template
