@@ -1,2 +1,3 @@
 # Alarma
-Creative landing counting down website template
+
+A landing page for an upcoming website template with a countdown.
